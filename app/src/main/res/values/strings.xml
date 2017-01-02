@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidUnitTestSample</string>
+        <string name="matcher_message">A matcher message</string>
+
+</resources>
